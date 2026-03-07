@@ -1,0 +1,9 @@
+{
+	"name": "adftutorial0331",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "96155f98-fda1-4cd0-ab36-49762dab545f",
+		"tenantId": "1026cb61-2aca-4a1d-b8a5-59564ca5282d"
+	}
+}
