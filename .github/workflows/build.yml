@@ -35,7 +35,7 @@ jobs:
  
 # In order to leverage the artifact in another job, we need to upload it with the upload action 
     - name: upload artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: ExportedArmTemplate # (4) use the same artifact name you used in the previous export step
         path: ${{github.workspace}}/build/ExportedArmTemplate
